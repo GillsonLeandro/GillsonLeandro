@@ -1,4 +1,4 @@
-- 👋 Hola soy @GillsonLeandro
+- 👋 Hola soy @GillsonLeandro, Seudomio: Nanaits
 - 👀 Me interesa el hacking en termux.
 - 🌱 I’m currently learning.
 - 💞️ Podria colabarar dando ideas creando scrips.
